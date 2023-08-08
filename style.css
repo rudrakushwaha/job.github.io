@@ -4,6 +4,9 @@
     /* color: white; */
     /* box-sizing: border-box; */
 }
+
+/* ////////////NAVBAR///////////////// */
+
 .menu-bar{
     background-image: linear-gradient( to right,#6db9ef,#7ce08a);
 }
@@ -27,6 +30,9 @@
     /* display: inline-block; */
     width: 50px;
 }
+
+/* ////////////////BANER//////////////////// */
+
 .banner{
     height: 80vh;
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/banner-1.jpg);
@@ -41,6 +47,9 @@
     font-weight: bold;
     text-shadow: 0 0 30px rgb(203 57 57 / 50%);;
 }
+
+/* /////////////JOB SEARCH////////////// */
+
 .search-job{
     padding: 30px 0px;
     margin: -50px 6% 50px;
@@ -65,6 +74,10 @@
     padding: 5px 20px;
     
 }
+
+
+/* //////////////RECRUITOR SECTION/////////////// */
+
 #recruiters{
     padding-top: 50px;
     padding-bottom: 100px;
@@ -99,6 +112,7 @@ h3::before{
     flex-wrap: wrap;
 }
 
+/* ///////////JOB-SECTION//////////// */
 #jobs{
     background: #f8f8fa;
     padding: 50px 0;
@@ -152,7 +166,7 @@ h3::before{
     background-image:linear-gradient( to right,#6db9ef,#7ce08a) ;
 }
 
-
+/* //////////////SITE STATS/////////// */
 #site-stats{
     padding: 100px 0;
     
@@ -179,6 +193,8 @@ h3::before{
 .appstore {
     width: 200px;
 }
+
+/* ////////////FOOTER///////////// */
 #footer{
     padding: 20px 10px 8px;
 }
